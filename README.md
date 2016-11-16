@@ -1,2 +1,2 @@
 # hello-world
-exercise 
+I like Node.js
